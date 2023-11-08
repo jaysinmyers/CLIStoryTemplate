@@ -49,6 +49,7 @@ func panicQuestions() {
 enum ashleysChoice {
     case turnLeft
     case turnRight
+    case stayStill
 }
 
 
