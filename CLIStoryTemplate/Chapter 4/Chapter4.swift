@@ -3,7 +3,7 @@
 //  CLIStoryTemplate
 //
 import Foundation
-//
+////
 //STRUCT - hold and organize information. I used this to categorize my chapters characters my name, age, eye color, and emotion.
 struct ch4Characters {
     var name: String
